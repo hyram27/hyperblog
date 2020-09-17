@@ -1,7 +1,7 @@
 #Hyperblog
-Un blog de [Jorge](https://www.bing.com/images/search?q=jorge+hiram+arroyo+almeida&form=HDRSC3&first=1&scenario=ImageBasicHover) 
+Un blog de [Jorge](https://pandao.github.io/editor.md/en.html) 
 >JEJEJj le estoy copiando a lo que vi en platzi
->Hiram
+>jsjsj
 
 ##Un intento de un blog la vdd
 * Hola
